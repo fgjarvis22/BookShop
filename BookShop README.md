@@ -4,7 +4,7 @@ This program is intended to be used as a book-shop inventory system. Whoever is 
 
 The program was created so that I could better understand class structures in C++. I learned how to code in this language several years ago at a basic level and haven't really used it since then. This was a great oppurtunity to relearn the basics and advance my learning on it. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/wew4PETARA8)
 
 # Development Environment
 
